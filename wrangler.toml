@@ -4,4 +4,4 @@ compatibility_date = "2023-11-09"
 workers_dev = true
 node_compat = true
 
-route = { pattern = "linkedinrss.cns.me/*", zone_name = "cns.me" }
+route = { pattern = "linkedinrss.humdiet.com/*", zone_name = "humdiet.com" }
